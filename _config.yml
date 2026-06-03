@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Biao Wang / Work in progress"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Biao Wang / personal page under construction"
 title_separator          : "-"
 name                     : &name "Biao Wang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://biao-wang-hpht.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Biao-Wang-HPHT/Biao-Wang-HPHT.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,10 +22,10 @@ repository               : "Biao-Wang-HPHT/Biao-Wang-HPHT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-5.png"
+  avatar           : "bio-photo-4.JPG"
   name             : "Biao Wang"
   pronouns         : "He/Him"  
-  bio              : "post-doc researcher in high pressure mineral physics"
+  bio              : "do experiments to study Earth’s interior"
   location         : "East Lansing, USA"
   employer         : "Michigan State University"
   uri              : # URL
@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-5299-5589"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
