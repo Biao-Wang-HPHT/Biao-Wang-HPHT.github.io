@@ -25,7 +25,7 @@ author:
   avatar           : "bio-photo-4.JPG"
   name             : "Biao Wang"
   pronouns         : "He/Him"  
-  bio              : "do experiments to study Earth’s interior"
+  bio              : # some descriptions here
   location         : "East Lansing, USA"
   employer         : "Michigan State University"
   uri              : # URL
