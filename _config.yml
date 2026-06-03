@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Biao Wang / personal page under construction"
 title_separator          : "-"
-name                     : &name "Biao Wang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Biao Wang"
+description              : "Personal academic website of Biao Wang"  
 url                      : "https://biao-wang-hpht.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Biao-Wang-HPHT/Biao-Wang-HPHT.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "bio-photo-3.jpg"
   name             : "Biao Wang"
   pronouns         : "He/Him"  
-  bio              : # some descriptions here
+  bio              : "Personal academic website of Biao Wang"
   location         : "East Lansing, USA"
   employer         : "Michigan State University"
   uri              : # URL
