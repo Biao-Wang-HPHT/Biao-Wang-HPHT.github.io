@@ -22,7 +22,7 @@ repository               : "Biao-Wang-HPHT/Biao-Wang-HPHT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-5.png"
+  avatar           : "/images/bio-photo-5.png"
   name             : "Biao Wang"
   pronouns         : "He/Him"  
   bio              : "post-doc researcher in high pressure mineral physics"
