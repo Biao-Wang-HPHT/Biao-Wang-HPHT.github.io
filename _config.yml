@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Biao Wang / page under construction"
+title                    : "Biao Wang / website under construction"
 title_separator          : "-"
 name                     : "Biao Wang"
 description              : "Personal academic website"  
@@ -25,7 +25,7 @@ author:
   avatar           : "bio-photo-3.jpg"
   name             : "Biao Wang"
   pronouns         : "He/Him"  
-  bio              : "Personal academic website of Biao Wang"
+  bio              : "Personal academic website"
   location         : "East Lansing, USA"
   employer         : "Michigan State University"
   uri              : # URL
